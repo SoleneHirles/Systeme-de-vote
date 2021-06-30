@@ -1,0 +1,121 @@
+html{
+	height: 100%;
+}
+
+body{
+	background: linear-gradient(45deg, #66CCFF, #CC99FF) no-repeat;
+}
+
+form {
+	position:absolute;
+   	top:10%;
+   	left:25%;
+	width: 50%;
+	max-height: 80%;
+	border: 4mm ridge rgba(112, 100, 120, .6);
+	padding: 10px;
+	background: #E2DFE7;
+	overflow: auto;
+}
+
+img{
+	filter: drop-shadow(0 0 0.75rem #CC00FF);
+}
+
+input[name='enlever'], input[name='suppr']{
+	background-image: url('poubelle.png');
+	padding: 0px; 
+	text-indent: 1000px; 
+	overflow: hidden; 
+	border: none;
+	cursor: pointer;
+}
+
+input[name='enlever'], input[name='ajout-option'], input[name='suppr'], input[name='ajout']{
+	height: 32px;
+	width: 32px;
+}
+
+.option, .elec, input[name='option'], input[name='participant']{
+	height: 26px;
+	width: 280px;
+}
+			
+a:hover{
+	filter: drop-shadow(0 0 0.75rem #CC00FF);
+}
+
+#vote{
+	height: 130px;
+	width: 130px;
+}
+
+.connexion{
+	text-align: right;
+	width: 60%;
+    float: right;
+}
+
+.titre{
+	width: 65%;
+    float: right;
+}
+.Accueil_bouton{
+	font-weight: bold;
+	height: 50px;
+	width: 200px;
+	font-size: 1em;
+}
+
+#Accueil_bouton{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+input[name='veux-vote']{
+	margin-left: 25%;
+	margin-right: 20%;
+}
+
+input[name='connexion'],input[name='deconnexion'], input[name='Creer-compte'],input[name='accueil'],
+input[name='Creer'],input[name='creation-scrutin'],input[name='afficheParticipation'], 
+input[name='cloreVote'], input[name='detruireVote'], input[name='vote'], input[name='Envoyer']{
+	font-weight: bold;
+	height: 25px;
+	width: 125px;
+	font-size: 0.85em;
+}
+
+.P_connexion{
+	margin-left: 25%;
+	margin-right: 25%;
+	width: 50%;
+}
+
+table.P_connexion input[name='accueil']{
+	width: 165px;
+}
+
+table.P_connexion td{
+	padding-bottom : 5px
+}
+
+.pasTrop{
+	border: none;
+	max-height: 200px;
+	overflow: auto;
+	margin: 0px;
+	padding: 0px;
+}
+
+input[readonly]{
+	background-image: url("pastel.jpg");
+}
+
+tr, td{
+	width: 50%
+}
+
+textarea[readonly]{
+	background: #C0C0C0;
+}

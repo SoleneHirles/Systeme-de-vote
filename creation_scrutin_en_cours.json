@@ -1,0 +1,41 @@
+{
+    "actif": 1,
+    "question": "efef",
+    "option": [
+        "Oui",
+        "Non",
+        "framboise"
+    ],
+    "electeur": {
+        "1": "paul.fourcade@universite-paris-saclay.fr",
+        "2": "enzo.souane@universite-paris-saclay.fr",
+        "3": "solene.hirles@universite-paris-saclay.fr",
+        "4": "nathan.ribeiro@universite-paris-saclay.fr",
+        "5": "jeremie.bodin@universite-paris-saclay.fr",
+        "6": "mennaallah.khaled-abdou-salim@universite-paris-saclay.fr",
+        "7": "sirine.sid-athmane@universite-paris-saclay.fr",
+        "8": "hugues.martin@universite-paris-saclay.fr",
+        "9": "teo.marchandiau@universite-paris-saclay.fr",
+        "10": "marine.bouquet@universite-paris-saclay.fr",
+        "11": "kevin.leborgne@universite-paris-saclay.fr",
+        "12": "imad-eddine.belkacem@universite-paris-saclay.fr",
+        "13": "amandine.valente@universite-paris-saclay.fr",
+        "14": "habib.hadouaj@universite-paris-saclay.fr",
+        "15": "arthur.secher-cabot@universite-paris-saclay.fr",
+        "16": "abdoul-adjit.sridhar@universite-paris-saclay.fr",
+        "17": "karima-salome.mahmoud-negm@universite-paris-saclay.fr",
+        "18": "kazan.hamon@universite-paris-saclay.fr",
+        "19": "mohamed.elmdimegh@universite-paris-saclay.fr",
+        "20": "augustin.nguon@universite-paris-saclay.fr",
+        "21": "maxime.poiret@universite-paris-saclay.fr",
+        "22": "ismail.boumehdi@universite-paris-saclay.fr",
+        "23": "maxence.favier@universite-paris-saclay.fr",
+        "24": "leo.combaret@universite-paris-saclay.fr",
+        "25": "khevin.collin@universite-paris-saclay.fr",
+        "26": "sarah.belabbas@universite-paris-saclay.fr",
+        "27": "bastien.pili@universite-paris-saclay.fr",
+        "28": "macha.bloy@universite-paris-saclay.fr",
+        "29": "bernard@gmail.com"
+    },
+    "organisateur": "bernard@gmail.com"
+}

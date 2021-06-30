@@ -1,0 +1,10 @@
+{
+	"actif":1,
+    "question":"",
+    "option": [
+        "Oui",
+        "Non",
+        "Abstention"
+    ],
+    "electeur":[]
+}
